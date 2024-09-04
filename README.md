@@ -2,7 +2,7 @@
 
 A simple **Python tool for Unreal Engine** that provides a quick level selection feature directly integrated into the editor's toolbar. This tool automatically lists available levels in your project, organizes them by their directory, and allows you to open any level with just a click.
 
-![Quick Level Selector](path/to/your/gif/file.gif)
+![Quick Level Selector]https://github.com/at0micarrow/QuickLevelSelector_For_UE5/blob/main/Resources/level_selector.gif)
 
 ## Features
 - **Automatic Level Detection:** The tool scans your project for available levels and organizes them into sections based on their directory structure.
